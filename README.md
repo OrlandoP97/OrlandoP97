@@ -1,5 +1,5 @@
 👋 Hey there, I'm Orlando!
-
+---
 I'm a software engineer with a passion for building cool stuff with code. I love the challenge of taking an idea and turning it into a real, working product that people can use and enjoy.
 
 🚀 What I'm up to:
@@ -16,7 +16,7 @@ I'm a software engineer with a passion for building cool stuff with code. I love
 🤖 AI is awesome:
 
 * I'm also super interested in the world of AI and machine learning. I'm currently learning about how to integrate AI into my projects and make them even smarter.
-
+---
 ✨ What I'm passionate about:
 
 * **Open source:** I love the collaborative spirit of the open-source community, and I'm always looking for ways to contribute.
